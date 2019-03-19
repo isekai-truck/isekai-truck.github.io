@@ -1,0 +1,27 @@
+body {
+	font-family: sans-serif;
+	background-color: #d6daf0;
+}
+
+img {
+	max-width: 100%;
+}
+
+.greentext {
+	color: #789922;
+}
+
+ul.greentext {
+	list-style-type: none;
+	padding: 0;
+}
+ul.greentext li::before {
+	content: "> ";
+}
+ul.greentext a {
+	color: inherit;
+}
+
+p.greentext::before {
+	content: "> ";
+}
