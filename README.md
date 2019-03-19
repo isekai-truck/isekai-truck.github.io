@@ -1,1 +1,31 @@
-# isekai-truck.github.io
+# Isek/a/i
+
+![Not Jayl anon, but here you go!](image.png)
+
+## Links:
+
+* [MC List](https://pastebin.com/ZaqrvZN0)
+* [FotM/Hall of Fame and Infamy](https://pastebin.com/p297NHSG)
+* [Absurd/Edge](https://pastebin.com/jFtPwsvD)
+* [Revenge](https://pastebin.com/Z3FNbXNQ)
+* [Otome(Many villainess)](https://pastebin.com/ibPQWyaY)
+* [Categorized Otome](https://pastebin.com/YCiG8M1i)
+* [Cultivation](https://pastebin.com/MZLq88hX)
+* [Dochaku Isekai](https://pastebin.com/UW470vTi)
+* [Kingdom Building](https://pastebin.com/qebMRDAP)
+* [Dungeon Exploration/Building](https://pastebin.com/g8HCWrFN)
+* [Ise/k/ai](https://pastebin.com/MPDmki98)
+* [Cooking](https://pastebin.com/ec9vrwPK)
+* [Gender Bender](https://pastebin.com/W7iegb8D)
+* [Loli MC](https://pastebin.com/5P93Mw14)
+* [Homebrew](https://pastebin.com/LNyhntc7)
+* [Completed](https://pastebin.com/A5t5t6MN)
+* [Time Travel & MDs](https://pastebin.com/dsvPTmZz)
+* [Sci-fi](https://pastebin.com/ruPyudzC)
+* [Actual Villains](https://pastebin.com/uBJTvwDY)
+* [Yuri](https://pastebin.com/w0sCdXgU)
+* [Reverse Isekai](https://pastebin.com/csUxcGxE)
+* [Cursed Isekai](https://pastebin.com/keMyT4mY)
+* [Blessed adaptations](https://pastebin.com/UdRdyYq3)
+* [Isekai Anime](https://pastebin.com/fPKJZe9X)
+* [Isekai Tropes](https://pastebin.com/ibr1mGK5)
