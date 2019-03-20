@@ -10,7 +10,20 @@
 <body>
 	<header>
 		<h1>Isek/a/i</h1>
-		<img src="image.png" id="cover" alt="Not Jayl anon, but here you go!" />
+		<img src="covers/image01.png" id="cover" alt="Not Jayl anon, but here you go!" />
+		<script>
+			/*
+				Randomize the above image.
+			*/
+			var covers = [
+				'image01.png',
+				'image02.png',
+			];
+			rand = Math.floor(Math.random() * covers.length);
+			if(rand != 0) {
+				document.getElementById("cover").src = "covers/" + covers[rand];
+			}
+		</script>
 	</header>
 
 	<main>
