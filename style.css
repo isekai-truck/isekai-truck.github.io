@@ -1,6 +1,17 @@
 body {
 	font-family: sans-serif;
 	background-color: #d6daf0;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 calc(5em + ( 10vw - 100px ));
+}
+
+header, main {
+	flex-grow: 1;
+}
+header {
+	text-align: right;
+	order: 1;
 }
 
 img {
